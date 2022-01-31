@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jd.gui.util.matcher.DescriptorMatcherTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-20T05:18:32" hostname="legion-5i" time="0.003">
+  <properties/>
+  <testcase name="testMatchMethodDescriptors" classname="org.jd.gui.util.matcher.DescriptorMatcherTest" time="0.002"/>
+  <testcase name="testMatchFieldDescriptors" classname="org.jd.gui.util.matcher.DescriptorMatcherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

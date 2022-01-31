@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jd.gui.view.component.JavaFilePageTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-01-20T05:18:32" hostname="legion-5i" time="0.002">
+  <properties/>
+  <testcase name="testMatchQueryAndAddDocumentRange" classname="org.jd.gui.view.component.JavaFilePageTest" time="0.0"/>
+  <testcase name="testMatchFragmentAndAddDocumentRange" classname="org.jd.gui.view.component.JavaFilePageTest" time="0.0"/>
+  <testcase name="testMatchScope" classname="org.jd.gui.view.component.JavaFilePageTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

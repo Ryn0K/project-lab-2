@@ -1,0 +1,19 @@
+Format: 1.8
+Date: Thu, 20 Jan 2022 11:10:05 +0530
+Source: decomp-java
+Binary: decomp-java
+Architecture: all
+Version: 1.0.0-0
+Urgency: low
+Maintainer: krn bhargav
+Changed-By: krn bhargav
+Description:
+ decomp-java - A Java Decompiler
+Changes:
+ decomp-java (1.0.0-0) ; urgency=low
+Checksums-Sha1:
+ dfada830cb77aa06fba3fcc78eb4a201f7aa4be6 1321206 decomp-java-1.0.0.deb
+Checksums-Sha256:
+ c885f30560c17f7254dc1dab742810483220ede8716428c05ea4e99049797c4c 1321206 decomp-java-1.0.0.deb
+Files:
+ 1abc77efa7f33f9d03c3b6b14da03dbf 1321206 java optional decomp-java-1.0.0.deb

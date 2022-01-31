@@ -1,0 +1,14 @@
+Source: decomp-java
+Section: java
+Priority: optional
+Maintainer: krn bhargav
+Uploaders: 
+Version: 1.0.0-0
+Standards-Version: 3.8.3
+Package: decomp-java
+Homepage: 
+Architecture: all
+Distribution: 
+Depends: 
+Description: A Java Decompiler
+ decomp-java, a standalone graphical utility that displays Java sources from CLASS files
